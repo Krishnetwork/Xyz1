@@ -1,8 +1,8 @@
 {
    "name": "Ban All Bot",
    "description": "Telegram Bot",
-   "repository": "https://github.com/venombolteop/Banall",
-   "logo": "https://te.legra.ph/file/0b373de1c657129297c39.jpg",
+   "repository": "https://github.com/Krishnetwork/xyz1",
+   "logo": "https://i.ibb.co/2FSqhSr/photo-2024-09-19-18-33-46-7416425646991081500.jpg",
    "image": "heroku/python",
    "env": {
       "API_ID": {
