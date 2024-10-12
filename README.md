@@ -14,4 +14,4 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Krishnetwork/Xyz1)
 
 # Credits
-* [Venom](https://github.com/krishnetwork) 
+* [𝗞𝗥𝗜𝗦𝗛 𝗠𝗜𝗦𝗛𝗥𝗔 ](https://github.com/krishnetwork) 
